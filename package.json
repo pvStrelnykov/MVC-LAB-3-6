@@ -4,7 +4,8 @@
   "description": "Lab6",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon zad1/app.js"
+    "zad1": "nodemon zad1/app.js",
+    "zad2": "nodemon zad2/app.js"
   },
   "keywords": [],
   "author": "Pavlo Strelnykov",
